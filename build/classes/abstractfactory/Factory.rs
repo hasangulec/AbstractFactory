@@ -1,0 +1,10 @@
+abstractfactory.FabrikaA
+abstractfactory.Factory
+abstractfactory.Green
+abstractfactory.Rectangle
+abstractfactory.Circle
+abstractfactory.Shape
+abstractfactory.Color
+abstractfactory.Blue
+abstractfactory.Triangle
+abstractfactory.Red
